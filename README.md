@@ -4,6 +4,6 @@ This notebook uses a popular plant protein database to find proteins that are le
 
 Plant database "p3db-3.5-phosphoprotein-report" downloaded 11 May 2020 from http://www.p3db.org/download.php
 
-
+![arabidopsis leaves](arabidopsis_leaves.jpg)
 
 
